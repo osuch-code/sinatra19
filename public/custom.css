@@ -1,0 +1,35 @@
+/*Sinatra19 Custom css*/
+
+body {
+	margin:15px;
+	padding:15px;
+}
+
+h1 {
+	font-size: 300%;
+	color: red;
+}
+
+h2{
+	font-size: 175%;
+}
+
+h3 {
+	font-size: 125%;
+	font-weight: xbold;
+}
+
+.navbar li
+{
+	display: inline;
+	font-size:120%;
+	border-bottom: 1px dotted grey;
+	padding-bottom:5px;
+
+}
+
+a:hover {
+  text-decoration-line: underline;
+  color:red;
+
+}
